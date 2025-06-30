@@ -1,13 +1,3 @@
-Perfekt — då behöver vi inte inkludera hela `bot.py` eller `Dockerfile` i `README`, bara referera till dem. Här är en uppdaterad och mer kompakt version av `README.md`, anpassad till att:
-
-* Följa stilen i din befintliga C# mall
-* Förklara att deltagarna kan använda valfritt språk
-* Hänvisa till de befintliga filerna i repot
-* Förklara hur man bygger och publicerar via GitHub
-
----
-
-````markdown
 # Välkommen till ditt Docker-baserade PokerBot-repo!
 
 > Det här projektet är en **template-repo** i organisationen. När du går med i organisationen bör du automatiskt (eller inom kort) få ett eget repo baserat på den andra mallen. Om du istället vill använda denna mallen kan du starta ett nytt repo genom att gå till [denna repo-sida](https://github.com/PokerBotsBoras/BotTemplate.Docker) och klicka på den gröna knappen **"Use this template"** uppe till höger. Välj sedan "Create new repository", välj organisationen som ägare och döp det till något som börjar på `dockerbot-`(viktigt).
@@ -91,9 +81,3 @@ Se [Docs/GameRules.md](Docs/GameRules.md) för detaljer.
 * Fråga i Discord
 * Eller kika på [TournamentRunner](https://github.com/PokerBotsBoras/TournamentRunner) för att förstå hur spelet körs
 
-```
-
----
-
-Vill du att jag lägger till/justerar en `.github/workflows/publish.yml` så den matchar strukturen i detta repo också?
-```
