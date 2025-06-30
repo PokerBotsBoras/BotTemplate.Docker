@@ -80,4 +80,3 @@ Se [Docs/GameRules.md](Docs/GameRules.md) för detaljer.
 
 * Fråga i Discord
 * Eller kika på [TournamentRunner](https://github.com/PokerBotsBoras/TournamentRunner) för att förstå hur spelet körs
-
